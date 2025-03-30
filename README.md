@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Starbruder
 - 👀 I’m interested in .NET and C#
-- 🌱 I’m currently learning Unity and WinForms
+- 🌱 I’m currently learning Unity and WPF
 - 📫 How to reach me starbruder.mc@gmail.com
 
 <!---
