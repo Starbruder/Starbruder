@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Starbruder
 - 👀 I’m interested in .NET and C#
-- 🌱 I’m currently learning Unity and WPF
+- 🌱 I’m currently learning the Neo2 layout
 
 <!---
 Starbruder/Starbruder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
